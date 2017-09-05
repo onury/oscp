@@ -1,0 +1,19 @@
+{
+  "name": "oscp",
+  "version": "0.0.1",
+  "description": "oscp.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onury/oscp.git"
+  },
+  "author": "Onur Yildirim <onur@cutepilot.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onury/oscp/issues"
+  },
+  "homepage": "https://github.com/onury/oscp#readme"
+}
